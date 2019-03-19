@@ -1,0 +1,17 @@
+.bg-gray{
+	background: #8e8a8a57;
+}
+h1{
+	margin: 0;
+	font-size: 24px;
+}
+footer{
+	background: #0a0a42f2;
+}
+
+footer ul li a{
+
+color: #07f507;
+
+padding: 10px 15px;
+}
